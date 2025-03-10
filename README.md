@@ -1,0 +1,1 @@
+# hand-sign-to-text-and-speech
